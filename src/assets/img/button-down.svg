@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Controls / Buttons / Down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Controls-/-Buttons-/-Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,10 C27.0751322,10 32,14.9248678 32,21 C32,27.0751322 27.0751322,32 21,32 C14.9248678,32 10,27.0751322 10,21 C10,14.9248678 14.9248678,10 21,10 L21,10 Z M21,11 C26.5228475,11 31,15.4771525 31,21 C31,26.5228475 26.5228475,31 21,31 C15.4771525,31 11,26.5228475 11,21 C11,15.4771525 15.4771525,11 21,11 L21,11 Z" id="Add" fill="#EF820B"></path>
+        <g id="icons/arrow_down" transform="translate(16.000000, 16.000000)" fill-rule="nonzero" stroke="#EF820B">
+            <polyline id="Path-2" points="0 5 5 10 10 5"></polyline>
+            <path d="M5,10 L5,0" id="Path-3"></path>
+        </g>
+    </g>
+</svg>
