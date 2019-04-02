@@ -16,6 +16,9 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "standard": "^11.0.1"
+    "standard": "^11.0.1",
+    "merge": ">=1.2.1",
+    "webpack-dev-server": ">=3.1.11",
+    "react-dev-utils": ">=5.0.2"
   }
 }
