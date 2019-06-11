@@ -6,7 +6,7 @@
     "classnames": "^2.2.6",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "1.1.4",
+    "react-scripts": "^3.0.1",
     "webfontloader": "^1.6.28"
   },
   "scripts": {
@@ -18,7 +18,18 @@
   "devDependencies": {
     "standard": "^11.0.1",
     "merge": ">=1.2.1",
-    "webpack-dev-server": ">=3.1.11",
     "react-dev-utils": ">=5.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
