@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
+    "lodash": "4.17.13",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.0.1",
@@ -16,9 +17,9 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "standard": "^11.0.1",
     "merge": ">=1.2.1",
-    "react-dev-utils": ">=5.0.2"
+    "react-dev-utils": ">=5.0.2",
+    "standard": "^11.0.1"
   },
   "browserslist": {
     "production": [
