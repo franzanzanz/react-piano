@@ -17,7 +17,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "merge": ">=1.2.1",
+    "merge": ">=2.1.1",
     "react-dev-utils": ">=5.0.2",
     "standard": "^11.0.1"
   },
